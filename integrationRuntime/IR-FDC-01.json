@@ -1,0 +1,12 @@
+{
+	"name": "IR-FDC-01",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/4bdd2131-9108-4ba4-9383-dff49c4d213f/resourcegroups/weu-hub-centprv1-test/providers/Microsoft.DataFactory/factories/adf-weu-hub-centprv1-test-01/integrationruntimes/IR-FDC-01",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
